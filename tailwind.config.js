@@ -10,7 +10,7 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/property-management-security-cameras/11-header.jpg')",
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/property-management-security-cameras/apartment%20security%20system%20dektop%20V2.png')",
       'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/property-management-security-cameras/11-header-mobile.jpg')"
     },
     extend: {
